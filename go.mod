@@ -1,0 +1,1 @@
+module go-api-gateway\n\ngo 1.21\n
